@@ -1,13 +1,17 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+
+.loginContainer{
+	width:100%;
+	marginLeft:auto;
+	marginRight:auto;
+	top:30%;
+	
+	position:absolute;
+	
+	padding: 10px;
+	
+
 }
+.p_wrap {
+    white-space: pre-line;
+  }
